@@ -1,4 +1,4 @@
-package tmath
+package math
 
 // Add a function for add
 func Add(a, b int) int {
